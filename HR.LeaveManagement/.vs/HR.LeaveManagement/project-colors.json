@@ -5,7 +5,12 @@
       "ProjectGuid": "745df7b0-8c5f-42b9-900a-0bbf13add4f8",
       "DisplayName": "HR.LeaveManagement.Domain",
       "ColorIndex": 0
+    },
+    "e54dea6e-e988-4061-a79f-06147483f7a1": {
+      "ProjectGuid": "e54dea6e-e988-4061-a79f-06147483f7a1",
+      "DisplayName": "HR.LeaveManagement.Application",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
