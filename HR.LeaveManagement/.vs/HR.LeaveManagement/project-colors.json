@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "745df7b0-8c5f-42b9-900a-0bbf13add4f8": {
+      "ProjectGuid": "745df7b0-8c5f-42b9-900a-0bbf13add4f8",
+      "DisplayName": "HR.LeaveManagement.Domain",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
